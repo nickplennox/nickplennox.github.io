@@ -2,6 +2,15 @@
 
 Please see below final layouts for the beta 1 release.
 
+The iPhone models are, from left to right:
+- iPhone 11 Pro Max
+- iPhone 11
+- iPhone X
+- iPhone 7/8
+- iPhone SE
+
+The size of screens varies from 6.5" to 4", so quite a challenge to get a design like this to be consistent.
+
 Note that the space below regular payments at the default Dynamic Type setting is required to allow room for larger Dynamic Text sizes, as can be seen in the second screenshot in each pair below
 
 Also note the jumbo-sized rent due amount and bank balance treatment on the left-most three screens, with the older size on the fourth screen (iPhone 7) and the removal of this treatment completely on the fifth screen (iPhone SE).
