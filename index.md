@@ -7,7 +7,7 @@ Note that the space below regular payments at the default Dynamic Type setting i
 Also note the jumbo-sized rent due amount and bank balance treatment on the left-most three screens, with the older size on the fourth screen (iPhone 7) and the removal of this treatment completely on the fifth screen (iPhone SE).
 
 
-## 1.Rent due expanded
+## Rent due expanded
 
 #### Default Dynamic Type settings 
 
@@ -17,7 +17,7 @@ Also note the jumbo-sized rent due amount and bank balance treatment on the left
 ![4](https://nickplennox.github.io/assets/trc-beta1-max-1.png)
 
 
-## 2. Bank account expanded
+## Bank account expanded
 
 #### Default Dynamic Type settings
 
@@ -27,7 +27,7 @@ Also note the jumbo-sized rent due amount and bank balance treatment on the left
 ![5](https://nickplennox.github.io/assets/trc-beta1-max-2.png)
 
 
-## 3. Regular payments expanded
+## Regular payments expanded
 
 #### Default Dynamic Type settings
 
