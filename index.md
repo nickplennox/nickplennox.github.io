@@ -26,7 +26,7 @@ Also note the jumbo-sized rent due amount and bank balance treatment on the left
 **Largest Dynamic Type settings**
 ![4](https://nickplennox.github.io/assets/trc-beta1-max-1.png)
 
-### Bank account expanded
+### Bank account expanded
 
 **Default Dynamic Type settings**
 ![2](https://nickplennox.github.io/assets/trc-beta1-default-2.png)
@@ -46,14 +46,16 @@ Final note: "01/01/1970" in the final pair of screenshots is a manifestation of 
 
 ## Custom Pickers
 
-**Calendar Picker**
+### Calendar Picker
+
 The Calendar Picker allows picking a start date for a recurring payment. The first selected date is shown in all cases, where there is another recurrance of the payment within the date range shown, that is also shown (for weekly or fortnightly payments).
 
 Business rules are applied to present either the 1st to 28th of the month as valid start dates, or any day of the month, depending on the payment type.
 
 ![Calendar Picker](https://nickplennox.github.io/assets/calendar-picker.gif)
 
-**Amount Picker**
+## Amount Picker
+
 The Amount Picker allows for entering a currency amount directly, where the slider control does not allow the user to enter the amount that they wish to pay. A calculator-style input metaphor is used. The amount is automatically entered after the user types the second decimal place value and therefore no enter key is present. The delete key allows mistakes to be corrected during input.
 
 ![Amount Picker](https://nickplennox.github.io/assets/calc-input.gif)
