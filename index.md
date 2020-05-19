@@ -4,11 +4,19 @@
 
 Dialogs added since the original sprite set was created, re-using existing sprites. We might want to design some new sprites for these cases. Please also review text content.
 
+**(New) Change Password**
+Error case is shown below, alternatively the text will read either "Your password change was confirmed" or "You cancelled the Change Password process"
+![a](https://nickplennox.github.io/assets/modals/429px/change-password.jpg)
+
 ## Existing Modal dialogs for review
+
 Original dialogs, please review text content.
 
-**account locked**
-![a](https://nickplennox.github.io/assets/modals/429px/account-locked.png)
+**Account Locked**
+![a](https://nickplennox.github.io/assets/modals/429px/account-locked.jpg)
+
+**Delete Regular Payment**
+![a](https://nickplennox.github.io/assets/modals/429px/delete-regular-payment.jpg)
 
 ## Dashboard screen layouts
 
