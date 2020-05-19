@@ -1,5 +1,15 @@
 # Quick Screenshot gallery
 
+## Modal dialogs for review
+
+Dialogs added since the original sprite set was created, re-using existing sprites. We might want to design some new sprites for these cases. Please also review text content.
+
+## Existing Modal dialogs for review
+Original dialogs, please review text content.
+
+**account locked**
+![a](https://nickplennox.github.io/assets/modals/429px/account-locked.png)
+
 ## Dashboard screen layouts
 
 Please see below final layouts for the beta 1 release.
