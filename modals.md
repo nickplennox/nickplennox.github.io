@@ -4,13 +4,13 @@
 
 Dialogs added since the original sprite set was created, re-using existing sprites. We might want to design some new sprites for these cases. Please also review text content.
 
-### (New) Change Password ###
+### Change Password (New) ###
 
 Error case is shown below, alternatively the text will read either "Your password change was confirmed" or "You cancelled the Change Password process"
 
 ![a](https://nickplennox.github.io/assets/modals/286px/change-password.jpg)
 
-### (New) Rent Due Error ###
+### Rent Due Error (New) ###
 
 Shown when it is not possible to load Rent Due data from the My Home integration web service
 
