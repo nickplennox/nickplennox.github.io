@@ -14,7 +14,7 @@ Error case is shown below, alternatively the text will read either "Your passwor
 
 Shown when it is not possible to load Rent Due data from the My Home integration web service
 
-![b](https://nickplennox.github.io/assets/modals/286px/my-home-integration-api-down.jpg)
+![b](https://nickplennox.github.io/assets/modals/286px/api-down-2.jpg)
 
 ## Existing Modal dialogs for review ##
 
@@ -22,7 +22,7 @@ Original dialogs, please review text content.
 
 ### Account Locked ###
 
-![c](https://nickplennox.github.io/assets/modals/286px/account-locked.jpg)
+![c](https://nickplennox.github.io/assets/modals/286px/account-locked-2.jpg)
 
 ### Delete Regular Payment ###
 
@@ -30,7 +30,7 @@ Original dialogs, please review text content.
 
 ### Disconnect Account ###
 
-![e](https://nickplennox.github.io/assets/modals/286px/disconnect-account.jpg)
+![e](https://nickplennox.github.io/assets/modals/286px/disconnect-2.jpg)
 
 ### Generic Error ###
 
