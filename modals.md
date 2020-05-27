@@ -32,10 +32,6 @@ Original dialogs, please review text content.
 
 ![e](https://nickplennox.github.io/assets/modals/286px/disconnect-2.jpg)
 
-### Generic Error ###
-
-![f](https://nickplennox.github.io/assets/modals/286px/generic-error.jpg)
-
 ### Payment Reminder ###
 
 ![g](https://nickplennox.github.io/assets/modals/286px/payment-reminder-3.jpg)
