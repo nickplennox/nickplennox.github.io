@@ -1,0 +1,6 @@
+module Pods_trc_ios_trc_iosUITests {
+  umbrella header "Pods-trc-ios-trc-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

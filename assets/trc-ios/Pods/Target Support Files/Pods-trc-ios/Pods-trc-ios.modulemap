@@ -1,0 +1,6 @@
+module Pods_trc_ios {
+  umbrella header "Pods-trc-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
