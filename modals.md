@@ -14,7 +14,7 @@ Error case is shown below, alternatively the text will read either "Your passwor
 
 Shown when it is not possible to load Rent Due data from the My Home integration web service
 
-![b](https://nickplennox.github.io/assets/modals/286px/api-down-2.jpg)
+![b](https://nickplennox.github.io/assets/modals/286px/api-down-3.jpg)
 
 ## Existing Modal dialogs for review ##
 
@@ -26,7 +26,7 @@ Original dialogs, please review text content.
 
 ### Delete Regular Payment ###
 
-![d](https://nickplennox.github.io/assets/modals/286px/delete-regular-payment.jpg)
+![d](https://nickplennox.github.io/assets/modals/286px/delete-payment-3.jpg)
 
 ### Disconnect Account ###
 
@@ -38,4 +38,4 @@ Original dialogs, please review text content.
 
 ### Payment Reminder ###
 
-![g](https://nickplennox.github.io/assets/modals/286px/payment-reminder.jpg)
+![g](https://nickplennox.github.io/assets/modals/286px/payment-reminder-3.jpg)
